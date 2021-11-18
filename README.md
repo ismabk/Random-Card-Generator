@@ -3,7 +3,7 @@
   <img
 		width="200"
 		alt="js"
-		src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-56bba37e791bc.pn">
+		src="https://cdn.ourcodeworld.com/public-media/articles/articleocw-56bba37e791bc.png">
 <p>
 #### Project created during the 4Geeks course.
 
