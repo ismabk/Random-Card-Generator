@@ -1,0 +1,31 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: green;
+}
+
+.card {
+  width: 350px;
+  background-color: white;
+  margin-top: 10px;
+
+  border-radius: 20px;
+}
+
+.number {
+  text-align: center;
+  color: black;
+  font-size: 125px;
+}
+
+.heart {
+  font-size: 125px;
+  color: red;
+  text-align: center;
+}
+
+.pica {
+  font-size: 125px;
+  color: black;
+  text-align: center;
+}
